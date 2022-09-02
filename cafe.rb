@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 DRINKS = [
   { name: 'コーヒー', price: 300 },
   { name: 'カフェラテ', price: 400 },
